@@ -1,0 +1,20 @@
+.dockerignore
+# Exclude build artifacts and VS files
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+
+# Exclude logs
+logs/
+
+# Exclude git
+.git/
+.gitignore
+
+# Exclude frontend (built separately if needed)
+frontend/
+
+# Exclude test results
+TestResults/
