@@ -27,7 +27,7 @@ Built as a full-stack technical assignment for **Zest India IT Pvt Ltd**.
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture.
 
 ```
 ┌─────────────────────────────────────────┐
